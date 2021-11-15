@@ -1,0 +1,26 @@
+00:00:01.331999 VirtualBox GUI VM Selector Window 6.0.6_Ubuntu r129722 linux.amd64 (Apr 16 2019 22:08:12) release log
+00:00:01.332003 Log opened 2019-10-20T05:25:14.884885000Z
+00:00:01.332005 Build Type: release
+00:00:01.332014 OS Product: Linux
+00:00:01.332017 OS Release: 5.0.0-31-generic
+00:00:01.332019 OS Version: #33-Ubuntu SMP Mon Sep 30 18:51:59 UTC 2019
+00:00:01.332076 DMI Product Name: K55VM
+00:00:01.332095 DMI Product Version: 1.0       
+00:00:01.332193 Host RAM: 7859MB (7.6GB) total, 5175MB (5.0GB) available
+00:00:01.332202 Executable: /usr/lib/virtualbox/VirtualBox
+00:00:01.332203 Process ID: 15778
+00:00:01.332204 Package type: LINUX_64BITS_GENERIC (OSE)
+00:00:01.332270 Qt version: 5.12.2
+00:00:01.587043 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:03.332338 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 0 work area is actually resized to: 0x25 x 1366x743
+00:00:03.354329 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:24.673246 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:26.285658 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:30.041194 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:30.514206 2D support test succeeded
+00:00:30.711376 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:39.061358 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:39.295025 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:50.303595 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:50.534147 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:01:03.318801 GUI: UIMediumEnumerator: Medium-enumeration finished!
